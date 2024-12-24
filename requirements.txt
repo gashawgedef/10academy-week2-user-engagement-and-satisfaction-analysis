@@ -5,3 +5,7 @@ psycopg2-binary
 sqlalchemy
 matplotlib
 seaborn
+openpyxl 
+matplotlib-inline
+ipython
+scikit-learn
